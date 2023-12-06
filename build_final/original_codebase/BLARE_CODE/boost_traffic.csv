@@ -1,0 +1,5 @@
+regex	true_strategy	ave_stratey	mid_ave_strategy	num_wrong	blare_time	mid_blare_time	multi_split_time	mid_multi_split_time	sm_time	mid_sm_time	direct_time	mid_direct_time	match_num_blare	match_num_multi_split	match_num_split	match_num_direct
+At (.+)Exit (.+)	1	0.9	0.875	1	0.668846	0.658845	0.398108	0.393132	0.459848	0.458662	0.904633	0.893111	302040	302038	302038	302038
+(.+) on (.+) at Exit (.+)	1	1	1	0	0.56763	0.561606	0.439724	0.438029	3.7346	3.72714	3.73821	3.73472	3416	3416	3416	3416
+on (.+) at (.+)	1	0.3	0.25	7	1.46549	1.51071	0.429922	0.398211	1.82101	1.81385	2.36665	2.34468	33605	33605	33605	33605
+Ramp to (.+)	0	0.1	0	1	0.179084	0.161332	0.193222	0.191649	0.153009	0.151386	0.671423	0.652361	29107	29107	29107	29107

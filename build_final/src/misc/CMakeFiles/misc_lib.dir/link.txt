@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -Ofast -march=native -mfma -mavx -fomit-frame-pointer   -ffp-contract=fast -flto -DARMA_NO_DEBUG -pthread -shared -Wl,-soname,libmisc_lib.so -o libmisc_lib.so CMakeFiles/misc_lib.dir/split_regex.cpp.o 

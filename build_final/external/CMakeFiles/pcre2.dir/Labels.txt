@@ -1,0 +1,14 @@
+# Target labels
+ pcre2
+# Source files and their labels
+/home/hunter/Blare/build/external/CMakeFiles/pcre2
+/home/hunter/Blare/build/external/CMakeFiles/pcre2.rule
+/home/hunter/Blare/build/external/CMakeFiles/pcre2-complete.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-build.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-configure.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-download.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-install.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-mkdir.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-patch.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-test.rule
+/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-update.rule

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -Ofast -march=native -mfma -mavx -fomit-frame-pointer   -ffp-contract=fast -flto -DARMA_NO_DEBUG -pthread CMakeFiles/blare_boost.dir/blare_boost.cpp.o -o blare_boost  /usr/lib/x86_64-linux-gnu/libboost_regex.so.1.74.0 

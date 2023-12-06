@@ -1,0 +1,1 @@
+cmd='/home/hunter/Blare/build/_deps/pcre2/src/pcre2/configure;--srcdir=/home/hunter/Blare/build/_deps/pcre2/src/pcre2;--prefix=/home/hunter/Blare/build/_deps/pcre2-build;--enable-jit;--enable-pcre2-16;--enable-pcre2-32;--disable-static'

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hunter/Blare/build/external/CMakeFiles/pcre2"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/external/CMakeFiles/pcre2.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/external/CMakeFiles/pcre2-complete.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-build.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-configure.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-download.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-install.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-mkdir.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-patch.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-test.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/pcre2/src/pcre2-stamp/pcre2-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pcre2"
+		],
+		"name" : "pcre2"
+	}
+}

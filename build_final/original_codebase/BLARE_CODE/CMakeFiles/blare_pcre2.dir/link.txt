@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -Ofast -march=native -mfma -mavx -fomit-frame-pointer   -ffp-contract=fast -flto -DARMA_NO_DEBUG -pthread CMakeFiles/blare_pcre2.dir/blare_pcre2.cpp.o -o blare_pcre2  -Wl,-rpath,/home/hunter/Blare/build/_deps/pcre2-build/lib ../../_deps/pcre2-build/lib/libpcre2-8.so ../../_deps/pcre2-build/lib/libpcre2-16.so ../../_deps/pcre2-build/lib/libpcre2-32.so 

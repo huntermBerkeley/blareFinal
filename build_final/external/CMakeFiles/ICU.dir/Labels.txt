@@ -1,0 +1,14 @@
+# Target labels
+ ICU
+# Source files and their labels
+/home/hunter/Blare/build/external/CMakeFiles/ICU
+/home/hunter/Blare/build/external/CMakeFiles/ICU.rule
+/home/hunter/Blare/build/external/CMakeFiles/ICU-complete.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-build.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-configure.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-download.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-install.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-mkdir.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-patch.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-test.rule
+/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-update.rule

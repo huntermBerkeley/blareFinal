@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hunter/Blare/build/external/CMakeFiles/ICU"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/external/CMakeFiles/ICU.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/external/CMakeFiles/ICU-complete.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-build.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-configure.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-download.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-install.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-mkdir.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-patch.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-test.rule"
+		},
+		{
+			"file" : "/home/hunter/Blare/build/_deps/ICU/src/ICU-stamp/ICU-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ICU"
+		],
+		"name" : "ICU"
+	}
+}
